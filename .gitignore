@@ -1,0 +1,35 @@
+# QuestaSim / ModelSim generated files
+work/
+transcript
+vsim.wlf
+*.wlf
+*.log
+*.jou
+*.mpf
+*.mti
+modelsim.ini
+
+# Coverage databases and generated reports
+*.ucdb
+coverage/cov.ucdb
+coverage/*_coverage.txt
+coverage/all_code_coverage.txt
+coverage/branch_coverage.txt
+coverage/condition_coverage.txt
+coverage/expression_coverage.txt
+coverage/fsm_coverage.txt
+coverage/functional_coverage.txt
+coverage/line_coverage.txt
+coverage/toggle_coverage.txt
+cov_html_report/
+coverage/cov_html_report/
+
+# Temporary and editor files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Unsanitized project report containing personal information
+docs/AXI4_UVM_Project_Mostafa Mohamed Farhan.pdf
